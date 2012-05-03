@@ -4,5 +4,5 @@
  */
  
 echo '<pre>';
-print_r('Hello Github!');
+print_r('Hello World!');
 echo '</pre>';
